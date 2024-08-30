@@ -14,6 +14,7 @@ Installieren Sie die benötigten Bibliotheken mit pip:
 
 ```bash
 pip install requests beautifulsoup4 markdownify
+```
 
 Projektstruktur
 
